@@ -2,6 +2,6 @@ class Prg
 {
 	PSVM(String args[])
 	{
-		sop("hello world");
+		System.out.println("hello world");
 	}
 }
